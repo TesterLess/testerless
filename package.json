@@ -1,0 +1,25 @@
+{
+    "name": "testerless",
+    "preferGlobal": false,
+    "version": "0.0.1",
+    "author": "Matus Szabo <info@testerless.com>",
+    "description": "E2E Testing Framewotk",
+    "main": "./index.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/TesterLess/testerless"
+    },
+    "keywords": [
+      "e2e",
+      "testing"
+    ],
+    "dependencies": {},
+    "analyze": false,
+    "devDependencies": {},
+    "bundledDependencies": [],
+    "license": "MIT",
+    "engines": {
+      "node": ">=8.0.0"
+    }
+}
+  
